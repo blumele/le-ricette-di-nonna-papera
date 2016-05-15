@@ -1,6 +1,6 @@
 # Crostata alle Fragole
 
-![Crostata alle Fragole](/immagini/crostata-alle-fragole.md)
+![Crostata alle Fragole](/immagini/xxx.xyz)
 
 [Fonte](http://lesempliciricettedinonnapapera.blogspot.it/2010/06/crostata-alle-fragole.html)
 
