@@ -1,6 +1,6 @@
 # Mozzarella in Carrozza
 
-![Mozzarella in Carrozza](immagini/mozzarella-in-carrozza.jpg)
+![Mozzarella in Carrozza](/immagini/mozzarella-in-carrozza.jpg)
 
 [Fonte](http://lesempliciricettedinonnapapera.blogspot.it/2010/06/mozzarella-in-carrozza.html)
 

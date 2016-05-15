@@ -1,6 +1,6 @@
 # Torta Cuore
 
-![Torta Cuore](immagini/torta-cuore.md)
+![Torta Cuore](/immagini/torta-cuore.md)
 
 [Fonte](http://lesempliciricettedinonnapapera.blogspot.it/2012/02/torta-cuore.html)
 

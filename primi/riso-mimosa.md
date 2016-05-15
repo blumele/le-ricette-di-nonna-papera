@@ -1,6 +1,6 @@
 # Riso Mimosa
 
-![Riso Mimosa](immagini/riso-mimosa.jpg)
+![Riso Mimosa](/immagini/riso-mimosa.jpg)
 
 [Fonte](http://lesempliciricettedinonnapapera.blogspot.it/2012/03/riso-mimosa.html)
 
