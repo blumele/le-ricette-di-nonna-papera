@@ -15,4 +15,4 @@ Repository contenente le ricette di Nonna Papera.
 ## Dolci
 
 - [Torta Cuore](dolci/torta-cuore.md)
-- [Crostata alle Fragole](dolci-crostata-alle-fragole.md)
+- [Crostata alle Fragole](dolci/crostata-alle-fragole.md)
