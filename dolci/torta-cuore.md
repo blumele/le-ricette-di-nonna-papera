@@ -4,7 +4,27 @@
 
 [Fonte](http://lesempliciricettedinonnapapera.blogspot.it/2012/02/torta-cuore.html)
 
-XXX
+## Ingredienti
+
+- 150g di cioccolato fondente
+
+- 100g di mandorle pelate
+
+- 250g di zucchero
+
+- 200g di burro morbido
+
+- 3 uova
+
+- 250g di farina 00
+
+- 1 bustina di lievito
+
+- latte q.b.
+
+- zucchero a velo Eridania
+
+- un pizzico di sale
 
 ## Preparazione
 
