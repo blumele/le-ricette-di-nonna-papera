@@ -16,3 +16,4 @@ Repository contenente le ricette di Nonna Papera.
 
 - [Torta Cuore](/dolci/torta-cuore.md)
 - [Crostata alle Fragole](/dolci/crostata-alle-fragole.md)
+- [Torta Pan di Stelle](/dolci/torta-pan-di-stelle.md)
